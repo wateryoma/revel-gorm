@@ -7,7 +7,7 @@ import (
 
 	"github.com/revel/revel"
 
-	"github.com/Gr1N/revel-gorm/app"
+	"github.com/wateryoma/revel-gorm/app"
 )
 
 type TransactionalController struct {
